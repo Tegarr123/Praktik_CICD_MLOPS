@@ -1,0 +1,2 @@
+Age,Sex,Blood Pressure,Cholesterol,Na_to_K,output,timestamp
+20,M,HIGH,HIGH,13.9,"{""label"": ""Predicted Drug: drugA"", ""confidences"": null}",2025-04-09 09:13:14.309363
